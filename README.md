@@ -1,8 +1,8 @@
 # BlockRaid-Game-Development--Unity-
 
-◦ A blockchain-based game where players locate 7 blocks, match hashes with containers, and answer blockchain questions for placement.
-◦ Enhanced player visuals through Unity Assets and programmed 4 key mechanics including walk, run, pick and drop.
-◦ Created an introductory video to showcase the game's features.
+◦ A blockchain-based game where players locate 7 blocks, match hashes with containers, and answer blockchain questions for placement.<br>
+◦ Enhanced player visuals through Unity Assets and programmed 4 key mechanics including walk, run, pick and drop.<br>
+◦ Produced an introductory video to showcase the game's features.
 
 # Tech Stack: 
 Unity, C#
