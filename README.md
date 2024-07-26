@@ -8,7 +8,8 @@
 Unity, C#
 
 # Game Scenes
-<iframe src="https://drive.google.com/file/d/1naXqNd_Pp3pxGRw__AH_bjx9KPHl3WBn/preview" width="640" height="480"></iframe>
+[Watch the video](https://drive.google.com/file/d/1naXqNd_Pp3pxGRw__AH_bjx9KPHl3WBn/view?usp=drive_link)
 
 # Introductory Video
-<iframe src="https://drive.google.com/file/d/1rl_WxxifJlB2tW7tU3RAH0ZmjkTQENTg/preview" width="640" height="480"></iframe>
+[Watch the video](https://drive.google.com/file/d/1rl_WxxifJlB2tW7tU3RAH0ZmjkTQENTg/view?usp=drive_link)
+
